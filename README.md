@@ -1,6 +1,6 @@
 # Hi-V Gundam Ver.Ka — Showcase
 
-Trang trình bày tĩnh cho mẫu **MG 1/100 RX-93-v2 Hi-V Gundam “Ver.Ka”** của Bandai, theo bố cục editorial lấy cảm hứng từ Humaan: hero chữ lớn, marquee, section exploded view điều khiển bằng cuộn, lưới từng bộ phận, chi tiết cận cảnh và khối mua hàng.
+Trang trình bày tĩnh cho mẫu **MG 1/100 RX-93-v2 Hi-V Gundam “Ver.Ka”** của Bandai, theo bố cục editorial lấy cảm hứng từ Humaan: hero chữ lớn, marquee, section lắp ráp điều khiển bằng cuộn (tách rời → lắp ráp → đổi tư thế bung fin funnel), lưới từng bộ phận, chi tiết cận cảnh và khối mua hàng.
 
 Không dùng framework hay build step. Chỉ HTML + CSS + JS thuần, animation dùng `transform` / `opacity` để cuộn mượt, có tôn trọng `prefers-reduced-motion`.
 
